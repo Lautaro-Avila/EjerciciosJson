@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace PracticaJson.Solutions.Ejercicio_4
 {
-    internal class Catalogo
+    /*internal class Catalogo
     {
         public List<Productos> Productos { get; set; }
 
@@ -14,5 +14,5 @@ namespace PracticaJson.Solutions.Ejercicio_4
         {
             Productos = new List<Productos>();
         }
-    }
+    }*/
 }

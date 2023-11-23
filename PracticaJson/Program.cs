@@ -1,4 +1,5 @@
 ﻿using PracticaJson.MiEjercicio3;
+using PracticaJson.MiEjercicio4;
 using PracticaJson.Solutions.Ejercicio_1;
 using System.Text.Json;
 
@@ -63,14 +64,30 @@ namespace PracticaJson
 
 
 
+
+
+            //                                ---------------------------------------EJERCICIO 3 ------------------------------------------------
+
+
+            /*General teams = JsonSerializer.Deserialize<General>(ejercicio3);
+
+            string MiEstadisticaJson = JsonSerializer.Serialize(teams);
+
+            Console.WriteLine(MiEstadisticaJson);*/
+
+
+
             //                                ---------------------------------------EJERCICIO 3 ------------------------------------------------
 
 
 
+            Lista lista = JsonSerializer.Deserialize<Lista>(ejercicio4)!;
 
-            General estadistica = JsonSerializer.Deserialize<General>(ejercicio3, options);
-        
+            string MisProductosJson = JsonSerializer.Serialize(lista);
+
         }
+
+
 
 
 

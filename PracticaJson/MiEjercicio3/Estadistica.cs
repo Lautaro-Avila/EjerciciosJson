@@ -14,10 +14,10 @@ namespace PracticaJson.MiEjercicio3
 
         public bool campeon {  get; set; }
     
-      /*public Estadistica()
+      public Estadistica()
         {
             jugadores = new List<Jugador>();
-        }*/
+        }
     
     
     }

@@ -7,10 +7,10 @@ using System.Threading.Tasks;
 
 namespace PracticaJson.Solutions.Ejercicio_4
 {
-    internal class Dimensiones
+    /*internal class Dimensiones
     {
         public long Alto { get; set; }   
         public long Ancho { get; set; }
         public long Profundidad { get; set; }
-    }
+    }*/
 }

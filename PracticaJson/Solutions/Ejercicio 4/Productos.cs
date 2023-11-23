@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace PracticaJson.Solutions.Ejercicio_4
 {
-    internal class Productos
+    /*internal class Productos
     {
         public string Nombre { get; set; }
         public double Precio { get; set; }
@@ -15,5 +15,5 @@ namespace PracticaJson.Solutions.Ejercicio_4
         public bool DescuentoDisponible { get; set; }
         public List<string> Etiquetas { get; set; }
         public Detalles Detalles { get; set; }
-    }
+    }*/
 }

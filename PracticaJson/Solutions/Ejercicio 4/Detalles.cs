@@ -7,9 +7,9 @@ using System.Threading.Tasks;
 
 namespace PracticaJson.Solutions.Ejercicio_4
 {
-    internal class Detalles
+    /*internal class Detalles
     {
         public double Peso { get; set; }
         public Dimensiones Dimensiones { get; set; }
-    }
+    }*/
 }

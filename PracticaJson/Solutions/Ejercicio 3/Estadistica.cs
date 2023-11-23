@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace PracticaJson.Solutions.Ejercicio_3
 {
-    internal class Estadistica
+    /*internal class Estadistica
     {
 
         [JsonPropertyName("equipo")]
@@ -20,5 +20,5 @@ namespace PracticaJson.Solutions.Ejercicio_3
             Jugadores = new List<Jugador>();
         }
 
-    }
+    }*/
 }

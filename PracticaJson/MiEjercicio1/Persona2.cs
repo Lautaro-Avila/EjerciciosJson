@@ -5,7 +5,7 @@ using System.Text;
 using System.Text.Json;
 using System.Threading.Tasks;
 
-namespace PracticaJson
+namespace PracticaJson.MiEjercicio1
 {
     internal class Persona2
     {
