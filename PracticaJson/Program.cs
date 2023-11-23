@@ -1,4 +1,5 @@
-﻿using PracticaJson.Solutions.Ejercicio_1;
+﻿using PracticaJson.MiEjercicio3;
+using PracticaJson.Solutions.Ejercicio_1;
 using System.Text.Json;
 
 namespace PracticaJson
@@ -65,6 +66,10 @@ namespace PracticaJson
             //                                ---------------------------------------EJERCICIO 3 ------------------------------------------------
 
 
+
+
+            General estadistica = JsonSerializer.Deserialize<General>(ejercicio3, options);
+        
         }
 
 
